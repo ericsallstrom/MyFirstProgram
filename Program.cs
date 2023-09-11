@@ -1,11 +1,11 @@
-﻿namespace MyFirstProgram
+﻿// Eric Sällström YH .NET23
+
+namespace MyFirstProgram
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // Eric Sällström YH .NET23
-
             int number = 16;
 
             if (number > 10) // checking if the variable number is larger than 10
